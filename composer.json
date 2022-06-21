@@ -1,0 +1,12 @@
+{
+    "name": "mnastenko/test_alekseon",
+    "authors": [
+        {
+            "name": "Marina Nastenko",
+            "email": "rozmarin20132@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
